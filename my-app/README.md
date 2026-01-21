@@ -71,3 +71,9 @@ export default defineConfig([
   },
 ])
 ```
+
+
+## Common Patterns
+Type-safe Events
+
+Typeevent handlers for inputs and buttons:
